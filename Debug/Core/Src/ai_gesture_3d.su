@@ -1,0 +1,3 @@
+../Core/Src/ai_gesture_3d.c:18:6:ai_sharp_train_data_collect	72	static
+../Core/Src/ai_gesture_3d.c:81:6:ai_gesture_detect	8	static
+../Core/Src/ai_gesture_3d.c:95:6:HAL_GPIO_EXTI_Callback	0	static

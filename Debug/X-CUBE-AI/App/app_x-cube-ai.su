@@ -1,0 +1,4 @@
+../X-CUBE-AI/App/app_x-cube-ai.c:174:5:acquire_and_process_data	0	static
+../X-CUBE-AI/App/app_x-cube-ai.c:186:5:post_process	0	static
+../X-CUBE-AI/App/app_x-cube-ai.c:201:6:MX_X_CUBE_AI_Init	24	static
+../X-CUBE-AI/App/app_x-cube-ai.c:210:6:MX_X_CUBE_AI_Process	56	static
