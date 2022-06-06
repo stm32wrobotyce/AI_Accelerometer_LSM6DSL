@@ -28,6 +28,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "ai_gesture_3d.h"
+#include "lsm6dsl.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -100,8 +101,8 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  ai_sharp_train_data_collect();
-	  //ai_gesture_detect();
+	  //ai_sharp_train_data_collect();
+	  ai_gesture_detect();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

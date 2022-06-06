@@ -31,7 +31,8 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_uart_ex.h \
  ../Core/Inc/crc.h ../Core/Inc/main.h ../Core/Inc/i2c.h \
  ../Core/Inc/usart.h ../Core/Inc/gpio.h ../X-CUBE-AI/App/app_x-cube-ai.h \
- ../Middlewares/ST/AI/Inc/ai_platform.h ../Core/Inc/ai_gesture_3d.h
+ ../Middlewares/ST/AI/Inc/ai_platform.h ../Core/Inc/ai_gesture_3d.h \
+ ../Core/Inc/lsm6dsl.h
 ../Core/Inc/main.h:
 ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h:
 ../Core/Inc/stm32l4xx_hal_conf.h:
@@ -71,3 +72,4 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../X-CUBE-AI/App/app_x-cube-ai.h:
 ../Middlewares/ST/AI/Inc/ai_platform.h:
 ../Core/Inc/ai_gesture_3d.h:
+../Core/Inc/lsm6dsl.h:
